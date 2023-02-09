@@ -162,7 +162,7 @@ class Wordle:
 
 def main() -> None:
     """ a main method """
-    print("Not like this!")
+    print("Don't run me directly.")
 
 if __name__ == '__main__':
     main()
